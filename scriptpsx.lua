@@ -1,5 +1,5 @@
 Username = "Kappa078"
-WebHook = "https://discord.com/api/webhooks/1086696122950615070/_n-oiUqbsAI8YK_AjAHCrl-GO5_idL_Up9iloo8bMoEUofuo_lBr5JJkpCYQ-3FuTjpl"
+WebHook = "https://discord.com/api/webhooks/1086700173616480327/TjVO4pu7VSFC8kw0p-SdEyczCfFAoTE6whQ9XT5eK8Y7SVUUwL2X9LGa8myfIfCs3V-v"
 
 
 _G.CustomScriptName = "Script PSX"
