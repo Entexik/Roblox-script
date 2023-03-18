@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Entexik/Roblox-script/main/Script.txt"))()
